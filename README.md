@@ -3,6 +3,8 @@ TodoList with Angular
 
 Crazione di una TodoList con Angular e Bootstrap 
 
+![todo](https://user-images.githubusercontent.com/98649610/162745681-340894c0-efd2-4294-b1b6-a58e4fbd7571.JPG)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
 
