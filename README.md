@@ -1,4 +1,8 @@
 # FE07B_progetto_settimana10
+TodoList with Angular 
+
+Crazione di una TodoList con Angular e Bootstrap 
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
 
