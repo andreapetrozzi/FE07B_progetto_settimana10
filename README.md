@@ -1,5 +1,5 @@
 # FE07B_progetto_settimana10
-# TodoList with Angular 
+TodoList with Angular 
 
 Crazione di una TodoList con Angular e Bootstrap 
 
