@@ -1,8 +1,14 @@
 # FE07B_progetto_settimana10
-TodoList with Angular 
 
-Crazione di una TodoList con Angular e Bootstrap 
+Creating a To Do List with Angular and Bootstrap
 
+Creating a TodoList with Angular and Bootstrap using only ES6 within an Angular app
+
+- Creation of an Angular app using the cli, with scss style, without using UI libraries (ex. Boostrap);
+- Create a `todos.service.ts` file to retrieve, add and modify a todo array. Each method should return a promise that completes after 2 seconds;
+- Finally, it must have two pages, `todo(/)` and `completati(/completed)`, from which you will have to retrieve the todo's needed for that page.
+
+### Screenshot application
 ![todo](https://user-images.githubusercontent.com/98649610/162745681-340894c0-efd2-4294-b1b6-a58e4fbd7571.JPG)
 
 
